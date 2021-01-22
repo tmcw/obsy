@@ -1,0 +1,11 @@
+{
+  "name": "obsy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@observablehq/parser": "^4.2.0",
+    "@observablehq/runtime": "^4.8.2",
+    "blessed": "^0.1.81"
+  }
+}
